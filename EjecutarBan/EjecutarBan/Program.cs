@@ -16,7 +16,7 @@ namespace EjecutarBan
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new CapaVista.Menu());
+            Application.Run(new CapaVista.MenuAdministrativo());
         }
     }
 }

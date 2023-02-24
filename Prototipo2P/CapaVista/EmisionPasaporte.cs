@@ -1,4 +1,5 @@
-﻿using System;
+﻿//Autora: Ester Daniela López Cruz 0901 - 19 - 314
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -8,13 +9,18 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Proyecto_Migracion
+namespace CapaVista
 {
-    public partial class Form1 : Form
+    public partial class EmisionPasaporte : Form
     {
-        public Form1()
+        public EmisionPasaporte()
         {
             InitializeComponent();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

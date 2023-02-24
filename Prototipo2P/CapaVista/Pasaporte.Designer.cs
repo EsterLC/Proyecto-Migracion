@@ -98,11 +98,18 @@ namespace CapaVista
             // label3
             // 
             this.label3.AutoSize = true;
+<<<<<<< HEAD
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.Location = new System.Drawing.Point(360, 22);
             this.label3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(161, 20);
+=======
+            this.label3.Font = new System.Drawing.Font("Arial Narrow", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Location = new System.Drawing.Point(411, 27);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(162, 24);
+>>>>>>> 6543a97767c107a18fa4540022e2e6dade34f25e
             this.label3.TabIndex = 4;
             this.label3.Text = "Fecha de nacimiento:";
             // 
@@ -129,10 +136,16 @@ namespace CapaVista
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+<<<<<<< HEAD
             this.label5.Location = new System.Drawing.Point(278, 102);
             this.label5.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(112, 20);
+=======
+            this.label5.Location = new System.Drawing.Point(319, 126);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(135, 25);
+>>>>>>> 6543a97767c107a18fa4540022e2e6dade34f25e
             this.label5.TabIndex = 8;
             this.label5.Text = "Departamento";
             // 
@@ -287,6 +300,7 @@ namespace CapaVista
             this.button2.TabIndex = 24;
             this.button2.Text = "Reprogramar Cita";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // button3
             // 
@@ -298,6 +312,7 @@ namespace CapaVista
             this.button3.TabIndex = 25;
             this.button3.Text = "Salir";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // Pasaporte
             // 

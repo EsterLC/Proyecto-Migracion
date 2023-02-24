@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace CapaVista
 {
-    public partial class Menu : Form
+    public partial class MenuCiudadano : Form
     {
-        public Menu()
+        public MenuCiudadano()
         {
             InitializeComponent();
         }
@@ -29,6 +29,16 @@ namespace CapaVista
             Control_de_Cheques b = new Control_de_Cheques();
             b.MdiParent = this;
             b.Show();
+        }
+
+        private void Menu_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void abrirToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
