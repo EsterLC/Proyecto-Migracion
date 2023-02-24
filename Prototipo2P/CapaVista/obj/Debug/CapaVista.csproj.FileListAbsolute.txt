@@ -35,3 +35,25 @@ C:\Users\Home\Downloads\Parcial Serie 3\Prototipo2P\CapaVista\obj\Debug\CapaVist
 C:\Users\Home\Downloads\Parcial Serie 3\Prototipo2P\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
 C:\Users\Home\Downloads\Parcial Serie 3\Prototipo2P\CapaVista\obj\Debug\CapaVista.dll
 C:\Users\Home\Downloads\Parcial Serie 3\Prototipo2P\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\bin\Debug\CapaModelo.pdb
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.Bancos.resources
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.Conciliacion.resources
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.Control_de_Cheques.resources
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.Cuentas_Clientes.resources
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.Menu.resources
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.Movimientos.resources
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.Pasaporte.resources
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.Reportes.resources
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.Citas_Mayores.resources
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.Citas_Menores.resources

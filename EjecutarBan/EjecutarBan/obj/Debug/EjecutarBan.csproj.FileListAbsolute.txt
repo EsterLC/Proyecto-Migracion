@@ -30,3 +30,19 @@ C:\Users\Home\Downloads\Parcial Serie 3\EjecutarBan\EjecutarBan\obj\Debug\Ejecut
 C:\Users\Home\Downloads\Parcial Serie 3\EjecutarBan\EjecutarBan\obj\Debug\EjecutarBan.csproj.CopyComplete
 C:\Users\Home\Downloads\Parcial Serie 3\EjecutarBan\EjecutarBan\obj\Debug\EjecutarBan.exe
 C:\Users\Home\Downloads\Parcial Serie 3\EjecutarBan\EjecutarBan\obj\Debug\EjecutarBan.pdb
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\EjecutarBan\EjecutarBan\bin\Debug\EjecutarBan.exe.config
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\EjecutarBan\EjecutarBan\bin\Debug\EjecutarBan.exe
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\EjecutarBan\EjecutarBan\bin\Debug\EjecutarBan.pdb
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\EjecutarBan\EjecutarBan\bin\Debug\CapaVista.dll
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\EjecutarBan\EjecutarBan\bin\Debug\CapaControlador.dll
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\EjecutarBan\EjecutarBan\bin\Debug\CapaModelo.dll
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\EjecutarBan\EjecutarBan\bin\Debug\CapaVista.pdb
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\EjecutarBan\EjecutarBan\bin\Debug\CapaControlador.pdb
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\EjecutarBan\EjecutarBan\bin\Debug\CapaModelo.pdb
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\EjecutarBan\EjecutarBan\obj\Debug\EjecutarBan.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\EjecutarBan\EjecutarBan\obj\Debug\EjecutarBan.Properties.Resources.resources
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\EjecutarBan\EjecutarBan\obj\Debug\EjecutarBan.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\EjecutarBan\EjecutarBan\obj\Debug\EjecutarBan.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\EjecutarBan\EjecutarBan\obj\Debug\EjecutarBan.csproj.CopyComplete
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\EjecutarBan\EjecutarBan\obj\Debug\EjecutarBan.exe
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\EjecutarBan\EjecutarBan\obj\Debug\EjecutarBan.pdb
