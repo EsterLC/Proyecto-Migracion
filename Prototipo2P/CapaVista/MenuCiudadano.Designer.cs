@@ -1,7 +1,7 @@
 ﻿
 namespace CapaVista
 {
-    partial class Menu
+    partial class MenuCiudadano
     {
         /// <summary>
         /// Required designer variable.
@@ -32,12 +32,12 @@ namespace CapaVista
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.abrirToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.catalogosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.bancosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.procesosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.controlChequesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.informesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.herramientasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.ayudaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.bancosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.controlChequesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -53,7 +53,7 @@ namespace CapaVista
             this.ayudaToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(800, 30);
+            this.menuStrip1.Size = new System.Drawing.Size(941, 28);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -62,6 +62,7 @@ namespace CapaVista
             this.abrirToolStripMenuItem.Name = "abrirToolStripMenuItem";
             this.abrirToolStripMenuItem.Size = new System.Drawing.Size(56, 24);
             this.abrirToolStripMenuItem.Text = "Abrir";
+            this.abrirToolStripMenuItem.Click += new System.EventHandler(this.abrirToolStripMenuItem_Click);
             // 
             // catalogosToolStripMenuItem
             // 
@@ -71,6 +72,13 @@ namespace CapaVista
             this.catalogosToolStripMenuItem.Size = new System.Drawing.Size(90, 24);
             this.catalogosToolStripMenuItem.Text = "Catalogos";
             // 
+            // bancosToolStripMenuItem
+            // 
+            this.bancosToolStripMenuItem.Name = "bancosToolStripMenuItem";
+            this.bancosToolStripMenuItem.Size = new System.Drawing.Size(139, 26);
+            this.bancosToolStripMenuItem.Text = "Bancos";
+            this.bancosToolStripMenuItem.Click += new System.EventHandler(this.bancosToolStripMenuItem_Click);
+            // 
             // procesosToolStripMenuItem
             // 
             this.procesosToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
@@ -78,6 +86,13 @@ namespace CapaVista
             this.procesosToolStripMenuItem.Name = "procesosToolStripMenuItem";
             this.procesosToolStripMenuItem.Size = new System.Drawing.Size(81, 24);
             this.procesosToolStripMenuItem.Text = "Procesos";
+            // 
+            // controlChequesToolStripMenuItem
+            // 
+            this.controlChequesToolStripMenuItem.Name = "controlChequesToolStripMenuItem";
+            this.controlChequesToolStripMenuItem.Size = new System.Drawing.Size(201, 26);
+            this.controlChequesToolStripMenuItem.Text = "Control Cheques";
+            this.controlChequesToolStripMenuItem.Click += new System.EventHandler(this.controlChequesToolStripMenuItem_Click);
             // 
             // informesToolStripMenuItem
             // 
@@ -97,30 +112,17 @@ namespace CapaVista
             this.ayudaToolStripMenuItem.Size = new System.Drawing.Size(65, 24);
             this.ayudaToolStripMenuItem.Text = "Ayuda";
             // 
-            // bancosToolStripMenuItem
-            // 
-            this.bancosToolStripMenuItem.Name = "bancosToolStripMenuItem";
-            this.bancosToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
-            this.bancosToolStripMenuItem.Text = "Bancos";
-            this.bancosToolStripMenuItem.Click += new System.EventHandler(this.bancosToolStripMenuItem_Click);
-            // 
-            // controlChequesToolStripMenuItem
-            // 
-            this.controlChequesToolStripMenuItem.Name = "controlChequesToolStripMenuItem";
-            this.controlChequesToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
-            this.controlChequesToolStripMenuItem.Text = "Control Cheques";
-            this.controlChequesToolStripMenuItem.Click += new System.EventHandler(this.controlChequesToolStripMenuItem_Click);
-            // 
-            // Menu
+            // MenuCiudadano
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(941, 563);
             this.Controls.Add(this.menuStrip1);
             this.IsMdiContainer = true;
             this.MainMenuStrip = this.menuStrip1;
-            this.Name = "Menu";
+            this.Name = "MenuCiudadano";
             this.Text = "Ricardo_Miranda_0901-09-3269";
+            this.Load += new System.EventHandler(this.Menu_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);

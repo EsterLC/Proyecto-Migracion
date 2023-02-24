@@ -77,11 +77,23 @@
     <Compile Include="Cuentas_Clientes.Designer.cs">
       <DependentUpon>Cuentas_Clientes.cs</DependentUpon>
     </Compile>
-    <Compile Include="Menu.cs">
+    <Compile Include="EmisionPasaporte.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Menu.Designer.cs">
-      <DependentUpon>Menu.cs</DependentUpon>
+    <Compile Include="EmisionPasaporte.Designer.cs">
+      <DependentUpon>EmisionPasaporte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuAdministrativo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuAdministrativo.Designer.cs">
+      <DependentUpon>MenuAdministrativo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuCiudadano.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuCiudadano.Designer.cs">
+      <DependentUpon>MenuCiudadano.cs</DependentUpon>
     </Compile>
     <Compile Include="Movimientos.cs">
       <SubType>Form</SubType>
@@ -96,6 +108,11 @@
       <DependentUpon>Pasaporte.cs</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
     <Compile Include="Reportes.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -116,14 +133,24 @@
     <EmbeddedResource Include="Cuentas_Clientes.resx">
       <DependentUpon>Cuentas_Clientes.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Menu.resx">
-      <DependentUpon>Menu.cs</DependentUpon>
+    <EmbeddedResource Include="EmisionPasaporte.resx">
+      <DependentUpon>EmisionPasaporte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuAdministrativo.resx">
+      <DependentUpon>MenuAdministrativo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuCiudadano.resx">
+      <DependentUpon>MenuCiudadano.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Movimientos.resx">
       <DependentUpon>Movimientos.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Pasaporte.resx">
       <DependentUpon>Pasaporte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Reportes.resx">
       <DependentUpon>Reportes.cs</DependentUpon>
