@@ -39,7 +39,7 @@
     </Reference>
     <Reference Include="CapaVista, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\Downloads\Parcial Serie 3\Prototipo2P\CapaVista\bin\Debug\CapaVista.dll</HintPath>
+      <HintPath>bin\Debug\CapaVista.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -58,18 +58,6 @@
     </Compile>
     <Compile Include="Bancos.Designer.cs">
       <DependentUpon>Bancos.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Citas_Mayores.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Citas_Mayores.Designer.cs">
-      <DependentUpon>Citas_Mayores.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Citas_Menores.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Citas_Menores.Designer.cs">
-      <DependentUpon>Citas_Menores.cs</DependentUpon>
     </Compile>
     <Compile Include="Conciliacion.cs">
       <SubType>Form</SubType>
@@ -135,12 +123,6 @@
   <ItemGroup>
     <EmbeddedResource Include="Bancos.resx">
       <DependentUpon>Bancos.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Citas_Mayores.resx">
-      <DependentUpon>Citas_Mayores.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Citas_Menores.resx">
-      <DependentUpon>Citas_Menores.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Conciliacion.resx">
       <DependentUpon>Conciliacion.cs</DependentUpon>
