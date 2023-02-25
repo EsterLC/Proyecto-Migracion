@@ -95,12 +95,6 @@
     <Compile Include="EmisionPasaporte.Designer.cs">
       <DependentUpon>EmisionPasaporte.cs</DependentUpon>
     </Compile>
-    <Compile Include="Registro De Datos.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Registro De Datos.Designer.cs">
-      <DependentUpon>Registro De Datos.cs</DependentUpon>
-    </Compile>
     <Compile Include="MenuAdministrativo.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -175,9 +169,6 @@
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Registro De Datos.resx">
-      <DependentUpon>Registro De Datos.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Reportes.resx">
       <DependentUpon>Reportes.cs</DependentUpon>
